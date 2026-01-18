@@ -1,0 +1,10 @@
+### More info: https://github.com/crazy-max/WindowsSpyBlocker
+
+0.0.0.0 www.googletagmanager.com
+0.0.0.0 ogads-pa.clients6.google.com
+0.0.0.0 federatedcompute-pa.googleapis.com
+0.0.0.0 default.exp-tas.com
+0.0.0.0 collector.github.com
+0.0.0.0 westus-0.in.applicationinsights.azure.com
+0.0.0.0 app.chat.global.xiaomi.net
+0.0.0.0 resolver.msg.global.xiaomi.net
