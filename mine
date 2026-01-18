@@ -22,6 +22,7 @@
 0.0.0.0	grs.platform.dbankcloud.ru
 0.0.0.0	htms.heytapmobile.com
 0.0.0.0	obus-dc121100-sg.heytapmobile.com
+0.0.0.0 dc-dragate-sg.heytapmobile.com
 0.0.0.0	obus-sg.dc.heytapmobile.com
 0.0.0.0	ogads-pa.clients6.google.com
 0.0.0.0	perr.bright-sdk.com
@@ -35,4 +36,7 @@
 0.0.0.0	virusinfo-cloudscan-sn.heytapmobile.com
 0.0.0.0	westus-0.in.applicationinsights.azure.com
 0.0.0.0	www.googletagmanager.com
+0.0.0.0	mcc-intl.inf.miui.com
+0.0.0.0	api.sec.intl.miui.com
+0.0.0.0	jupiter.intl.sys.miui.com
 
