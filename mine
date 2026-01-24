@@ -1,3 +1,4 @@
+||trafficmanager.net^
 ||updatetoto.tw^
 ||spyoff.com^
 ||uhabq9.com^
@@ -27,6 +28,10 @@
 ||mosite.in^
 ||sohu.com^
 ||heytapmobile.com^
+||heytapmobi.com^
+||imrworldwide.com^
+||f.360.cn^
+||domob.cn^
 ||linklist.bio^
 ||googleadservices.com^
 ||p23hxejm1.com^$important
@@ -41,6 +46,16 @@
 ||shalltry.com^$important
 ||hotbmoyisu.today^$important
 ||wow-i-get-push.com^$important
+||youdaokkqnf.top^$important
+||mobilesystemservice.com^$important
+||ccc9b61733.com^$important
+||bb88480f1d.com^$important
+||0d9063412c.com^$important
+0.0.0.0    fp.customtowaway.com
+0.0.0.0    ocsp.comodoca.com
+0.0.0.0    ad.youtube.com
+0.0.0.0    p16-be-pack-va.i18n-pglstatp.com
+0.0.0.0    reports.crashlytics.com
 0.0.0.0    kswj.unionapps.info
 0.0.0.0    protostats.bigo.sg
 0.0.0.0    cdnx.soinluck.com
@@ -57,7 +72,6 @@
 0.0.0.0    api.us-west-2.aiv-delivery.net
 0.0.0.0    api.input.intl.miui.com
 0.0.0.0    graph.accountkit.com
-0.0.0.0    sconfig-inmobi-comtm.trafficmanager.net
 0.0.0.0    sconfig-server-eastus.trafficmanager.inmobi.com
 0.0.0.0    sfunc.ivymobile.com
 0.0.0.0    up.cm.ksmobile.com
@@ -83,7 +97,6 @@
 0.0.0.0    v-id.ls.glance-internal.inmobi.com
 0.0.0.0    us.ynuf.aliapp.org
 0.0.0.0    geoip.hmageo.com
-0.0.0.0    telemetry.eastus.trafficmanager.net
 0.0.0.0    api2.wshareit.com
 0.0.0.0    nam.veta.naver.com
 0.0.0.0    telemetry-gke-gw3.ssp.inmobi.com
@@ -571,7 +584,6 @@
 0.0.0.0    telemetry.individual.githubcopilot.com
 0.0.0.0    copilot-telemetry.githubusercontent.com
 0.0.0.0    westus-0.in.applicationinsights.azure.com
-0.0.0.0    telemetry-sdk-inmobi-comtm.trafficmanager.net
 0.0.0.0    ff7f2545b2954f179b5207a114086490.js.ubembed.com
 0.0.0.0    e4b13862e98a42debf77dc378a369086.unbouncepages.com
 0.0.0.0    sg-gcp-ad-track-sdk-asia-southeast1-c.mtgglobals.com
