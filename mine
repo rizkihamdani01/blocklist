@@ -6,8 +6,6 @@
 ||one-new-message-okay.com^
 ||houmoowhaustoul.net^
 ||ohirsoungocougn.net^
-||ahadns.net^
-||ahadns.com^
 ||itotolink.net^
 ||totolink.net^
 ||totolinkc.com^
@@ -33,7 +31,6 @@
 ||f.360.cn^
 ||domob.cn^
 ||linklist.bio^
-||googleadservices.com^
 ||p23hxejm1.com^$important
 ||doileak.com^$important
 ||onelink.me^$important
@@ -66,8 +63,6 @@
 0.0.0.0    servx.bidsxplayer.com
 0.0.0.0    taomsg-imvod.alicdn.com
 0.0.0.0    online-bill.lenzmx.com
-0.0.0.0    ether-pack-sg.pangle.io.ttdns2.com
-0.0.0.0    tpsc-video-as.dvgtm.akadns.net
 0.0.0.0    marketingplatform.google.com
 0.0.0.0    api.us-west-2.aiv-delivery.net
 0.0.0.0    api.input.intl.miui.com
@@ -88,9 +83,7 @@
 0.0.0.0    resolver.msg.xiaomi.net
 0.0.0.0    api.hybrid.intl.xiaomi.com
 0.0.0.0    t7.a.market.xiaomi.com
-0.0.0.0    httpdns.push.oppomobile.com
 0.0.0.0    statf.dc.oppomobile.com
-0.0.0.0    httpdns.ocloud.oppomobile.com
 0.0.0.0    mytelkomselprod.api.useinsider.com
 0.0.0.0    cdnt.netcoresmartech.com
 0.0.0.0    npa.netcoresmartech.com
@@ -287,7 +280,6 @@
 0.0.0.0    scripts.clarity.ms
 0.0.0.0    dc.dqa.samsung.com
 0.0.0.0    cdn.mobilefuse.com
-0.0.0.0    dns-test1.hola.org
 0.0.0.0    api.tradplusad.com
 0.0.0.0    api.dollphoin.site
 0.0.0.0    events.newsroom.bi
@@ -312,7 +304,6 @@
 0.0.0.0    tkda.robin-flow.com
 0.0.0.0    titokshopsea.pxf.io
 0.0.0.0    apioci.chavoads.com
-0.0.0.0    loggw.alipaydns.com
 0.0.0.0    cdn.ynuf.aliapp.org
 0.0.0.0    analytics.avcdn.net
 0.0.0.0    mssdk-sg.tiktok.com
@@ -492,7 +483,6 @@
 0.0.0.0    addfd325e6e3.cdn4.forter.com
 0.0.0.0    analytics-tcp.mtgglobals.com
 0.0.0.0    laz-dorangesource.alicdn.com
-0.0.0.0    partner.googleadservices.com
 0.0.0.0    gateway.unityads.unity3d.com
 0.0.0.0    us1-spiky.clevertap-prod.com
 0.0.0.0    eu1-spiky.clevertap-prod.com
@@ -705,7 +695,6 @@
 0.0.0.0    domain
 0.0.0.0    ww17.video.lovelyoy.xyz
 0.0.0.0    feedbackws.icloud.com
-0.0.0.0    www.googleadservices.com
 0.0.0.0    t-in.ls.glanceapis.com
 0.0.0.0    gsgorpt.adview.com
 0.0.0.0    metrics-dra.dt.dbankcloud.cn
