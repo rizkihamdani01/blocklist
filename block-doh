@@ -1,3 +1,6 @@
+||opendns.com*^$important
+||ahadns.net*^$important
+||nextdns.io*^$important
 ||adblock.doh.mullvad.net*^$important
 ||adblock-dot.dnswarden.com*^$important
 ||adblock.mydns.network*^$important
@@ -103,7 +106,6 @@
 ||doh.applied-privacy.net*^$important
 ||doh.appliedprivacy.net*^$important
 ||doh.armadillodns.net*^$important
-||ahadns.net*^$important
 ||doh.blockerdns.com*^$important
 ||doh.captnemo.in*^$important
 ||doh.centraleu.pi-dns.com*^$important
@@ -121,7 +123,6 @@
 ||doh.eastas.pi-dns.com*^$important
 ||doh.eastau.pi-dns.com*^$important
 ||doh.eastus.pi-dns.com*^$important
-||doh.familyshield.opendns.com*^$important
 ||doh.ffmuc.net*^$important
 ||doh-fi.blahdns.com*^$important
 ||doh.gslb2.xfinity.com*^$important
@@ -132,11 +133,9 @@
 ||doh.mullvad.net*^$important
 ||doh.netweaver.uk*^$important
 ||doh.northeu.pi-dns.com*^$important
-||doh.opendns.com*^$important
 ||doh.pi-dns.com*^$important
 ||doh.powerdns.org*^$important
 ||doh.pub*^$important
-||doh.sandbox.opendns.com*^$important
 ||doh.seby.io*^$important
 ||doh.securedns.eu*^$important
 ||doh-sg.blahdns.com*^$important
@@ -208,10 +207,6 @@
 ||public-dns-b.dns.sb*^$important
 ||public.dns.iij.jp*^$important
 ||rdns.faelix.net*^$important
-||resolver1-fs.opendns.com*^$important
-||resolver1.opendns.com*^$important
-||resolver2-fs.opendns.com*^$important
-||resolver2.opendns.com*^$important
 ||resolver-eu.lelux.fi*^$important
 ||rgnet-iad.anycast.censurfridns.dk*^$important
 ||rgnet-iad.anycast.uncensoreddns.org*^$important
